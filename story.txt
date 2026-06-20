@@ -3,3 +3,4 @@ feature1 change
 main update
 feature 2 change
 new feature work
+feature3 line
